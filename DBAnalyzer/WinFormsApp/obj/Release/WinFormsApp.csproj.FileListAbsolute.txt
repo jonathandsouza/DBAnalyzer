@@ -1,0 +1,15 @@
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\WinFormsApp.exe.config
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\WinFormsApp.exe
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\WinFormsApp.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\CoreLogic.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\DataModels.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\DBAccess.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\CoreLogic.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\DataModels.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\bin\Release\DBAccess.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\obj\Release\WinFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\obj\Release\WinFormsApp.Form1.resources
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\obj\Release\WinFormsApp.Properties.Resources.resources
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\obj\Release\WinFormsApp.csproj.GenerateResource.Cache
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\obj\Release\WinFormsApp.exe
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\WinFormsApp\obj\Release\WinFormsApp.pdb

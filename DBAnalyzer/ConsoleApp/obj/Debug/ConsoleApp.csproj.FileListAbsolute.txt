@@ -1,0 +1,2 @@
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\bin\Release\CoreLogic.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\bin\Release\CoreLogic.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\bin\Release\DataModels.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\bin\Release\DBAccess.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\bin\Release\DataModels.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\bin\Release\DBAccess.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\obj\Release\CoreLogic.csprojResolveAssemblyReference.cache
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\obj\Release\CoreLogic.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\CoreLogic\obj\Release\CoreLogic.pdb

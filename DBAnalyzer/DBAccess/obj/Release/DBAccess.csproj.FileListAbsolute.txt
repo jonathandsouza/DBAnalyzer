@@ -1,0 +1,7 @@
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\bin\Release\DBAccess.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\bin\Release\DBAccess.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\bin\Release\DataModels.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\bin\Release\DataModels.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\obj\Release\DBAccess.csprojResolveAssemblyReference.cache
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\obj\Release\DBAccess.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\DBAccess\obj\Release\DBAccess.pdb

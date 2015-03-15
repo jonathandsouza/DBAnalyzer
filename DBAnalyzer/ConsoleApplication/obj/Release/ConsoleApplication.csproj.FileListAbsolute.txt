@@ -1,0 +1,12 @@
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\ConsoleApplication.exe.config
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\ConsoleApplication.exe
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\ConsoleApplication.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\CoreLogic.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\DataModels.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\DBAccess.dll
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\CoreLogic.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\DataModels.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\bin\Release\DBAccess.pdb
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\obj\Release\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\obj\Release\ConsoleApplication.exe
+C:\Users\jonathan\Documents\Visual Studio 2013\Projects\DBAnalyzer\ConsoleApplication\obj\Release\ConsoleApplication.pdb

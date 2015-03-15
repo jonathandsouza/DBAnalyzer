@@ -1,0 +1,5 @@
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\DataModels\bin\Debug\DataModels.dll
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\DataModels\bin\Debug\DataModels.pdb
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\DataModels\obj\Debug\DataModels.dll
+c:\users\jonathan\documents\visual studio 2013\Projects\DBAnalyzer\DataModels\obj\Debug\DataModels.pdb
